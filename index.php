@@ -16,6 +16,8 @@ $p->Apellido = 'Ferraro';
 $p->Documento = '445524155';
 $p->Direccion = $d;
 
+
+
 $p->ImprimirInformacion();
 
 
